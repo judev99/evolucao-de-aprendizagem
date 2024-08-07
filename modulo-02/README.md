@@ -41,5 +41,10 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-Em breve
+- Os temas abordados neste módulo abriram um leque de possibiliadades na programação, Método de Arrays
+- Aprendi estruruas e funcionameno de funções.
+- Aprendemos a identificar tipos de dados para uma melhor interpretação do código.
+- Aprendemos como a Técnologia e a diversidade se relacionam.
+- Aprendi como deixa meu linkedin mais profissional e a utiliza-lo de maneira correta.
+- As Métologias Ágeis são exelentes para um melhor gerenciamento de projetos e gestão de tempo. 
 
